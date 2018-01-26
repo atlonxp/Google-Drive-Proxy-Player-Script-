@@ -4,9 +4,6 @@ Google Drive Proxy Player Script is a PHP script will help you to proxy streamin
 
 Demo Online: <a target="_blank" href="http://123movies0.com/">123movies</a>
 
-Demo JWPlayer: <a target="_blank" href="http://123movies0.com/drive/play.php?url=d2w0NDhHS09qeS9SbGYrUlFkZGRseFRSV3d5SGFqSldweE5MVXBHSWdKczkxaW1qTFhRc0U3VFUvS0JUWGE1VA==&sub=Alien.720.en.srt&title=Alien%20HD%20720&cover=https://image.tmdb.org/t/p/original/kiDTjPmz12CnD0fuRl4OUamgLHO.jpg
-">Alien HD 720</a>
-
 <strong>Features:</strong>
 - Simple and flexible installation
 - JWPlayer available
