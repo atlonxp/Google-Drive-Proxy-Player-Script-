@@ -2,9 +2,9 @@
 
 Google Drive Proxy Player Script is a PHP script will help you to proxy streaming video files stored in Google Drive with a fully customizable way, you will have full control over the player with your own like add a subtitle, image preview, logo, advertisement.
 
-Demo Online: <a target="_blank" href="http://gomovies8.ml/drive/">Google Drive Proxy Player Script</a>
+Demo Online: <a target="_blank" href="http://123movies0.com/">123movies</a>
 
-Demo JWPlayer: <a target="_blank" href="http://gomovies8.ml/drive/play.php?url=d2w0NDhHS09qeS9SbGYrUlFkZGRseFRSV3d5SGFqSldweE5MVXBHSWdKczkxaW1qTFhRc0U3VFUvS0JUWGE1VA==&sub=https://filesonic.000webhostapp.com/drive/subs/Alien.720.en.srt&title=Alien%20HD%20720&cover=https://image.tmdb.org/t/p/original/kiDTjPmz12CnD0fuRl4OUamgLHO.jpg
+Demo JWPlayer: <a target="_blank" href="http://123movies0.com/drive/play.php?url=d2w0NDhHS09qeS9SbGYrUlFkZGRseFRSV3d5SGFqSldweE5MVXBHSWdKczkxaW1qTFhRc0U3VFUvS0JUWGE1VA==&sub=Alien.720.en.srt&title=Alien%20HD%20720&cover=https://image.tmdb.org/t/p/original/kiDTjPmz12CnD0fuRl4OUamgLHO.jpg
 ">Alien HD 720</a>
 
 <strong>Features:</strong>
