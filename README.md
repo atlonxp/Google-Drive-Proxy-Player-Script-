@@ -2,7 +2,7 @@
 
 Google Drive Proxy Player Script is a PHP script will help you to proxy streaming video files stored in Google Drive with a fully customizable way, you will have full control over the player with your own like add a subtitle, image preview, logo, advertisement.
 
-Demo Online: <a target="_blank" href="http://123movies0.com/">123movies</a>
+Demo Online: <a target="_blank" href="https://is123moviesto.com/">123movies</a>
 
 <strong>Features:</strong>
 - Simple and flexible installation
